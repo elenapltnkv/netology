@@ -1,4 +1,4 @@
-package base_java;
+package base_java.cycles;
 
 public class ClassOrder {
     public static void main(String[] args) {
